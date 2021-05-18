@@ -1,3 +1,3 @@
 # Tugas_28_css
 
-![tugas28](screen/tugas14.png)
+![tugas28](screen/tugas28.png)
